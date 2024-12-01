@@ -1,8 +1,6 @@
 left = []
 right = []
 distance = 0
-# AoC invite : 3490085-ade85e82
-# AoC private leaderboard : https://adventofcode.com/2024/leaderboard/private
 
 with open('day1.txt', 'r', encoding='utf-8') as f:
     for line in f:
